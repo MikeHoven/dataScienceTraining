@@ -3,7 +3,8 @@
 
 ##Schedule
 
-| Phase | Details | Due Date|
+| Phase | Details | Due Date |
+| ----- | ------- | -------- |
 | Project planning | Please prepare your project description using the following format
 - 200 words abstract
 - data source and description
