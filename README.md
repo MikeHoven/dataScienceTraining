@@ -5,11 +5,7 @@
 
 | Phase | Details | Due Date |
 | ----- | ------- | -------- |
-| Project planning | Please prepare your project description using the following format <br> - 200 words abstract <br> - data source and description <br> - pipeline of steps (in a block diagram) <br> - Metrics for success
-
-Develop a road of tasks. 
-Assign a time line and people to each task.
-Create a project page and populate with details and diagrams and share with Jimi. GitHub should be fine. | Sept 5, 2016 |
+| Project planning | Please prepare your project description using the following format <br> - 200 words abstract <br> - data source and description <br> - pipeline of steps (in a block diagram) <br> - Metrics for success <br><br>Develop a road of tasks. <br>Assign a time line and people to each task.<br>Create a project page and populate with details and diagrams and share with Jimi. GitHub should be fine. | Sept 5, 2016 |
 
 
 Get sample data and build baseline
