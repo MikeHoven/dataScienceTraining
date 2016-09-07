@@ -5,10 +5,7 @@
 
 | Phase | Details | Due Date |
 | ----- | ------- | -------- |
-| Project planning | Please prepare your project description using the following format <br> - 200 words abstract | test |
-- data source and description
-- pipeline of steps (in a block diagram)
-- Metrics for success
+| Project planning | Please prepare your project description using the following format <br> - 200 words abstract <br> - data source and description <br> - pipeline of steps (in a block diagram) <br> - Metrics for success
 
 Develop a road of tasks. 
 Assign a time line and people to each task.
